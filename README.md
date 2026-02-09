@@ -1,5 +1,5 @@
 # ZipfChemicalLanguageModels
-# The Linguistic Basis of Chemical Language Models: Zipf’s Law in Molecular Sequence Representations
+## The Linguistic Basis of Chemical Language Models: Zipf’s Law in Molecular Sequence Representations
 
 This repository contains code to reproduce the analysis reported in the paper **“The Linguistic Basis of Chemical Language Models: Zipf’s Law in Molecular Sequence Representations”**.
 
