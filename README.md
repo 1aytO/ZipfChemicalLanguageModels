@@ -17,10 +17,6 @@ the study:
 4. fine-tune the encoder on a MoleculeNet-style regression or binary
    classification CSV.
 
-The repository excludes the full experiment tree, molecular corpora, model
-checkpoints, job files, and batch results. The bundled data and default BERT
-dimensions support code checks on a CPU. They do not reproduce the published
-metrics.
 
 ## Files
 
