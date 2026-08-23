@@ -1,0 +1,11 @@
+.venv/
+.worktrees/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+checkpoints/
+models/
+outputs/
+runs/
+wandb/

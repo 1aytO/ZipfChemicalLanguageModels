@@ -1,9 +1,0 @@
-[B][O][P][=Branch1][C][=O][Branch1][C][O][C][O][C][C][N][C][=N][C][=C][Branch1][C][N][N][=C][N][=C][Ring1][#Branch1][Ring1][#Branch2]
-[B][O][P][=Branch1][C][=O][Branch1][C][O][C][O][C@H1][Branch1][C][C][C][N][C][=N][C][=C][Branch1][C][N][N][=C][N][=C][Ring1][#Branch1][Ring1][#Branch2]
-[B][P][=Branch1][C][=O][Branch2][Ring1][Branch1][C][O][C][C][N][C][=N][C][=C][Branch1][C][N][N][=C][N][=C][Ring1][#Branch1][Ring1][#Branch2][O][P][=Branch1][C][=O][Branch1][C][O][O][P][=Branch1][C][=O][Branch1][C][O][O]
-[B][P][=Branch1][C][=O][Branch2][Ring1][Branch2][C][O][C@H1][Branch1][C][C][C][N][C][=N][C][=C][Branch1][C][N][N][=C][N][=C][Ring1][#Branch1][Ring1][#Branch2][O][P][=Branch1][C][=O][Branch1][C][O][O][P][=Branch1][C][=O][Branch1][C][O][O]
-[B][P][=Branch1][C][=O][Branch1][C][O][C][C][C@@H1][C][=C][C@H1][Branch1][S][N][C][=C][Branch1][C][C][C][=Branch1][C][=O][NH1][C][Ring1][Branch2][=O][O][Ring1][=C]
-[B][P][=Branch1][C][=O][Branch1][C][O][C][C][C@H1][O][C@@H1][Branch1][S][N][C][=C][Branch1][C][C][C][=Branch1][C][=O][NH1][C][Ring1][Branch2][=O][C][C@@H1][Ring1][=C][N][=N+1][=N-1]
-[B][P][=Branch1][C][=O][Branch2][Ring1][O][O][C][C@@H1][C][=C][C@H1][Branch1][S][N][C][=C][Branch1][C][C][C][=Branch1][C][=O][NH1][C][Ring1][Branch2][=O][O][Ring1][=C][O][P][=Branch1][C][=O][Branch1][C][O][C][Branch1][C][F][Branch1][C][F][P][=Branch1][C][=O][Branch1][C][O][O]
-[B][P][=Branch1][C][=O][Branch2][Ring1][S][O][C][C@@H1][C][=C][C@H1][Branch2][Ring1][Ring2][N][C][=N][C][=C][Branch1][C][O][N][=C][Branch1][C][N][N][=C][Ring1][Branch2][Ring1][O][C][Ring1][S][O][P][=Branch1][C][=O][Branch1][C][O][C][Branch1][C][F][Branch1][C][F][P][=Branch1][C][=O][Branch1][C][O][O]
-……
